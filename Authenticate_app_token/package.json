@@ -1,5 +1,5 @@
 {
-  "name":"Auth_example",
+  "name": "Auth_example",
   "version": "1.0.0",
   "description": "Authentication with an Application Token",
   "main": "index.js",
