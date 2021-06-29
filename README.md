@@ -1,5 +1,5 @@
-# EMnify_examples
-Code snippets to use EMnify APIs
+# EMnify_examples in JavaScript
+Code snippets to use EMnify APIs in JS
 
-## JS
-- [Authenticate](JS/Authenticate_app_token)
+- [Authenticate](Authenticate_app_token)
+- [Get Device Status](Get_Device_Status)

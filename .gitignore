@@ -1,3 +1,5 @@
 .DS_Store
 Authenticate_app_token/node_modules
 Authenticate_app_token/.env
+Get_Device_Status/node_modules
+Get_Device_Status/.env
